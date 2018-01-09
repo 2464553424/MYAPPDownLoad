@@ -1,31 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-        <key>items</key>
-        <array>
-                <dict>
-                        <key>assets</key>
-                        <array>
-                                <dict>
-                                    <key>kind</key>
-                                    <string>software-package</string>
-                                    <key>url</key>
-                                    <string>https://github.com/2464553424/MYAPPDownLoad/blob/master/%E6%A3%80%E7%96%AB%E7%B3%BB%E7%BB%9F.ipa</string>
-                                </dict>
-                        </array>
-                        <key>metadata</key>
-                        <dict>
-                            <key>bundle-identifier</key>
-                            <string>1</string>
-                            <key>bundle-version</key>
-                            <string>1.0</string>
-                            <key>kind</key>
-                            <string>software</string>
-                            <key>title</key>
-                            <string>检验检疫</string>
-                        </dict>
-                </dict>
-        </array>
-</dict>
-</plist>
+<？xml version =“1.0”encoding =“UTF-8”？>
+<！DOCTYPE plist PUBLIC“ -  // Apple // DTD PLIST 1.0 // EN”“http://www.apple.com/DTDs/PropertyList-1.0.dtd”>
+<plist version =“1.0”>
+<字典>
+	<键>项</键>
+	<阵列>
+		<字典>
+			<键>资产</键>
+			<阵列>
+				<字典>
+					<键>样</键>
+					<字符串>软件封装</字符串>
+					<键>网址</键>
+					<字符串> https://github.com/2464553424/MYAPPDownLoad/blob/master/%E6%A3%80%E7%96%AB%E7%B3%BB%E7%BB%9F.ipa </字符串>
+				</字典>
+				<字典>
+					<键>样</键>
+					<字符串>显示图像</字符串>
+					<键>网址</键>
+					<字符串> https://github.com/2464553424/MYAPPDownLoad/upload </字符串>
+				</字典>
+				<字典>
+					<键>样</键>
+					<字符串>全尺寸图像</字符串>
+					<键>网址</键>
+					<字符串> https://github.com/2464553424/MYAPPDownLoad/upload </字符串>
+				</字典>
+			</阵列>
+			<键>元数据</键>
+			<字典>
+				<键>束标识符</键>
+				<字符串> ShangHaiYDA.jg </字符串>
+				<键>束的版本</键>
+				<字符串> 1.0 </字符串>
+				<键>样</键>
+				<字符串>软件</字符串>
+				<键>标题</键>
+				<字符串> JG </字符串>
+			</字典>
+		</字典>
+	</阵列>
+</字典>
+</ plist中>
