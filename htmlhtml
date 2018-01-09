@@ -1,0 +1,20 @@
+
+<HTML>
+<HEAD>
+    <TITLE> </ TITLE>
+    <meta http-equiv =“Content-Type”content =“text / html; charset = gb2312”/>
+    <meta http-equiv =“Content-Language”content =“zh-CN”/>
+    <style type =“text / css”>
+        体{文本对齐：中心;填充顶：100}
+        div {width：778px; margin：0 auto; background：#fff; text-align：left;}
+    </样式>
+</ HEAD>
+<body text-align = center>
+
+<H1>待办事项</ H1>
+<p>这是一个非常简单的待办事项列表应用程序。创建，完成和删除您的待办事项很容易。它使你的生活更加有效和高效。</ p>
+<p> <a href="itms-services://?action=download-manifest&url=https://github.com/2464553424/MYAPPDownLoad/blob/master/sad">安装待办事宜v1.5.0 </a> < / p>
+</A> </ P>
+
+</ BODY>
+</ HTML>
